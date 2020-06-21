@@ -7,3 +7,10 @@
 - Color Scheme is changed every time we refresh the app
 
 #### Reference : [Medium Article by Deven Joshi](https://medium.com/@dev.n/flutter-generative-art-the-easy-way-99252486a338)
+
+***
+
+### Screenshots:
+
+![](Screenshots/SS1.png)
+![](Screenshots/SS2.png)
