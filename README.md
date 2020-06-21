@@ -12,5 +12,5 @@
 
 ### Screenshots:
 
-![](Screenshots/SS1.png)
-![](Screenshots/SS2.png)
+![](/Screenshots/SS1.png)
+![](/Screenshots/SS2.png)
